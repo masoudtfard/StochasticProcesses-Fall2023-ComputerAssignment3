@@ -1,2 +1,7 @@
-# StochasticProcesses-Fall2023-ComputerAssignment3
-Computer Assignments #3 [Spectral Estimation, Mean Square Estimation,  Kalman Filter] - Stochastic Processes Course - Sharif University of Tehran - Dr. Behnia
+# Stochastic Processes Course - Computer Assignment #3 - Fall 2023
+## Sharif University of Technology
+### Estimation Methods
+
+* Q1: Spectral Estimation
+* Q2: Mean Square Estimation
+* Q3: Kalman Filter
